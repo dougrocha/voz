@@ -1,0 +1,3 @@
+// Paths resolve relative to this file. No #include so rc.exe needs no SDK include path.
+1 ICON "voz.ico"   // ui.ICON_ID
+1 24   "voz.manifest" // CREATEPROCESS_MANIFEST_RESOURCE_ID, RT_MANIFEST

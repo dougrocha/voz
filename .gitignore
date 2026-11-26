@@ -1,0 +1,12 @@
+*.exe
+*.pdb
+*.obj
+*.res
+*.bin
+tests/tests
+vendor/rnnoise/*.lib
+vendor/rnnoise/*.a
+vendor/rnnoise/*.obj
+winui/bin/
+winui/obj/
+voz-ui/
